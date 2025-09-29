@@ -2,7 +2,7 @@ const container = document.querySelector(".content");
 
 
 
-let images = ["./mell_1.jpg", "./mell_2.jpg", "./mell_3.jpg"]
+let images = ["../assets/mell_1.jpg", "../assets/mell_2.jpg", "../assets/mell_3.jpg"]
 
 let html = "";
 setInterval(() => {
