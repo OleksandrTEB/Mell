@@ -1,0 +1,16 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.content img {
+  object-fit: cover;
+  width: 10%;
+  height: 10%;
+}
+
+/*# sourceMappingURL=style.css.map */
